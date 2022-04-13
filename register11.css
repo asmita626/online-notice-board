@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	background-image:url(ffff.jpg);
+	 background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    color: rgb(7, 7, 66);
+   margin: 0px 50px 20px ;
+   margin-bottom: 0px;
+   font-size: 20px;
+   padding: 0px;
+   font-family: 'Limelight', cursive;
+   font-family: 'Poppins', sans-serif;
+   text-align:left;
+   gap:unset;
+   font-weight: 600;
+  
+  
+   
+}
+
+
+body{
+	
+	padding: 0px 100px;
+    max-width: 500px;
+    width:100px 1000px;
+    margin: 10px 50px 20px 0;
+}
+
+.my{
+max-width:150px 150px;
+margin: 10px auto;
+box-sizing: border-box;
+width: 250%;
+border: solid #0f3c3d 10px;
+padding: 0px;
+z-index: 7;
+white-space: normal;
+}
+.asw{
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    background: rgb(48, 228, 13);
+    font-weight: 600;
+}
+
+ .bb {
+    color: turquoise;
+}
+
+
